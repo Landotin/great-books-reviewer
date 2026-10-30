@@ -5,8 +5,8 @@ An independent Great Books study companion for Weeks 1–17 of the Canvas course
 ## What it includes
 
 - 17 weekly pages covering 45 lessons and two exam checkpoints
-- 93 author, story, and literary-work summaries, including extended summaries of major plot-based works
-- The expanded Weeks 1–12 section adds 55 work summaries and 91 course self-check answers
+- 92 expanded author, story, and literary-work summaries with plot arcs, key events, endings, and arguments
+- The Weeks 1–12 section adds 54 work summaries and 91 course self-check answers
 - 136 explained course self-check answers, with ambiguous wording flagged
 - 44 additional story-recall quiz prompts about authors, characters, events, and endings
 - Multiple-choice and recall practice, searchable bookshelf, week filters, and local progress

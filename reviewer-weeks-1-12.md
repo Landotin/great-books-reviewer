@@ -268,15 +268,14 @@ For every major work, recall **author → main character → central problem →
 **Focus:** Fragmented form, inner life, and stories across media.
 
 <p><strong>Big idea:</strong> When familiar beliefs and forms feel inadequate, writers reshape narrative to represent inner consciousness, social dislocation, and a media-saturated world.</p>
-      <h3>10.1 Modernism and inner life</h3><p><strong>Modernism</strong> experiments with fragmented form and perception, especially amid rapid urban change and the shock of World War I. <strong>Stream of consciousness</strong> represents the flow of thought, memory, and sensation. <strong>Alienation</strong> is estrangement from other people, society, or oneself.</p><p>Virginia Woolf’s <strong>Mrs Dalloway</strong> follows Clarissa preparing for a London party over one day, while Septimus Warren Smith—traumatized by war—struggles with the world around him and dies by suicide. The parallel lives connect private memory, time, class, and war. James Joyce’s <strong>Ulysses</strong> follows Leopold Bloom and Stephen Dedalus through Dublin on June 16, 1904, with episodes loosely echoing Homer’s <em>Odyssey</em>; its interior monologues make ordinary thought part of epic form. T. S. Eliot’s <strong>The Waste Land</strong> is a fragmented poem of voices and allusions that evokes cultural dislocation after war.</p><p>D. H. Lawrence’s <strong>Sons and Lovers</strong> follows Paul Morel in a mining family divided by class and an intense mother-son bond; his efforts to love Miriam and Clara remain shaped by that attachment, and the novel ends with Paul moving toward an uncertain future after his mother’s death. In <strong>“Tickets, Please!”</strong>, wartime staffing leaves young women operating a Midlands tram line. Inspector John Joseph Raynor flirts with several conductresses; Annie becomes attached to him, then joins the women in confronting and beating him after he leaves her. When he is forced to choose, his selection of Annie does not repair the relationship: the ending feels bruised and unsatisfied. The story raises questions about gender, labor, desire, and revenge without giving a clean victory. <a href="https://wrap.warwick.ac.uk/id/eprint/130206/1/WRAP_Theses_Concepcion_1993.pdf" target="_blank" rel="noopener">University of Warwick research on the story’s revised ending ↗</a></p>
+      <h3>10.1 Modernism and inner life</h3><p><strong>Modernism</strong> experiments with fragmented form and perception, especially amid rapid urban change and the shock of World War I. <strong>Stream of consciousness</strong> represents the flow of thought, memory, and sensation. <strong>Alienation</strong> is estrangement from other people, society, or oneself.</p><p>Virginia Woolf’s <strong>Mrs Dalloway</strong> follows Clarissa preparing for a London party over one day, while Septimus Warren Smith—traumatized by war—struggles with the world around him and dies by suicide. The parallel lives connect private memory, time, class, and war. James Joyce’s <strong>Ulysses</strong> follows one day, June 16, 1904, in Dublin. Stephen Dedalus wanders while grieving his mother; Leopold Bloom runs errands, attends a funeral, and thinks about Molly, their daughter Milly, and their dead infant son Rudy. He knows that Molly expects a visit from Blazes Boylan. Bloom and Stephen meet in a maternity hospital, go through the red-light district, and share cocoa at Bloom’s home before Stephen leaves. Bloom returns to bed beside Molly, whose closing stream of consciousness recalls their life together and ends with an emphatic yes. The episodes loosely echo Homer’s <em>Odyssey</em>. T. S. Eliot’s <strong>The Waste Land</strong> is a fragmented poem of voices and allusions that evokes cultural dislocation after war.</p><p>D. H. Lawrence’s <strong>Sons and Lovers</strong> follows Paul Morel in a mining family divided by class and an intense mother-son bond; his efforts to love Miriam and Clara remain shaped by that attachment, and the novel ends with Paul moving toward an uncertain future after his mother’s death. In <strong>“Tickets, Please!”</strong>, wartime staffing leaves young women operating a Midlands tram line. Inspector John Joseph Raynor flirts with several conductresses; Annie becomes attached to him, then joins the women in confronting and beating him after he leaves her. When he is forced to choose, his selection of Annie does not repair the relationship: the ending feels bruised and unsatisfied. The story raises questions about gender, labor, desire, and revenge without giving a clean victory. <a href="https://wrap.warwick.ac.uk/id/eprint/130206/1/WRAP_Theses_Concepcion_1993.pdf" target="_blank" rel="noopener">University of Warwick research on the story’s revised ending ↗</a></p>
       <h3>10.2 Postmodern play with story</h3><p><strong>Postmodernism</strong> questions the idea that one stable story or style can explain everything. <strong>Metafiction</strong> draws attention to its own status as a made story. <strong>Pastiche</strong> combines or imitates styles and genres; it is not automatically mockery. <strong>Irony</strong> creates a gap between words, expectations, and meaning. Jorge Luis Borges’s <em>Labyrinths</em> gathers stories and essays that play with infinite libraries, mirrors, and invented worlds. Italo Calvino’s <strong>If on a winter’s night a traveler</strong> makes the reader a character, interrupting one novel with the beginnings of others. Jean-François Lyotard’s <em>The Postmodern Condition</em> is theory about knowledge and skepticism toward grand narratives, not a novel. <strong>Hyperreality</strong> is a theoretical idea about representations becoming entangled with what people take to be real.</p>
-      <h3>10.3 Digital narratives</h3><p><strong>Ergodic literature</strong> requires meaningful effort or navigation from a reader, beyond simply moving through lines of text. <strong>Transmedia storytelling</strong> develops a story world across different platforms, with each medium adding material. <strong>Synthetic media</strong> is content generated or altered by computational systems. In <em>Black Mirror: Bandersnatch</em>, viewers make choices for programmer Stefan Butler as he adapts a fantasy novel into a game; branching paths make us question agency and control.</p><p><strong>“Berlin” note:</strong> The title is ambiguous without an author. A likely literary match is Vladimir Nabokov’s short story “<strong>A Guide to Berlin</strong>” (written in Russian in 1925). It has five brief sections—pipes, streetcar, work, zoo/Eden, and a pub—not one conventional plot. A narrator shows a bored companion ordinary city details, then imagines how future readers will value them as history. If your exam means a different work called “Berlin,” check the author or share the exact title. <a href="https://ora.ox.ac.uk/objects/uuid%3A5199c291-44e3-4cd7-a146-4226ec837e11/files/m99cd241f6ca3654aabc68f77dba22162" target="_blank" rel="noopener">Oxford research on Nabokov’s “A Guide to Berlin” ↗</a> · <a href="https://archive.org/details/englandmyengland00lawrrich" target="_blank" rel="noopener">D. H. Lawrence, <em>England, My England</em> collection containing “Tickets, Please!” ↗</a></p>
+      <h3>10.3 Digital narratives</h3><p><strong>Ergodic literature</strong> requires meaningful effort or navigation from a reader, beyond simply moving through lines of text. <strong>Transmedia storytelling</strong> develops a story world across different platforms, with each medium adding material. <strong>Synthetic media</strong> is content generated or altered by computational systems. In <em>Black Mirror: Bandersnatch</em>, viewers make choices for programmer Stefan Butler as he adapts a fantasy novel into a game; branching paths make us question agency and control.</p>
 
 ### Works and stories
 
 - **Sons and Lovers — D. H. Lawrence.** Paul Morel grows up in a working-class mining family where his educated mother’s marriage to a miner has collapsed into conflict. Her emotional closeness shapes Paul’s relationships with Miriam and Clara; after his mother dies, he faces an uncertain choice to live independently.
 - **“Tickets, Please!” — D. H. Lawrence.** During World War I, young women run a Midlands tram service while men are away. Inspector John Joseph Raynor flirts with several conductresses; Annie becomes attached to him, then joins her coworkers in confronting and beating him after he leaves her. They force him to choose; he names Annie, but the apparent victory feels hollow: something is broken in her, and the women return to a world whose gender rules have not simply disappeared. Lawrence substantially rewrote the ending for the 1922 collection, so check which version your class used. <a href="https://archive.org/details/englandmyengland00lawrrich" target="_blank" rel="noopener">Collection text at Internet Archive ↗</a> <a href="https://wrap.warwick.ac.uk/id/eprint/130206/1/WRAP_Theses_Concepcion_1993.pdf" target="_blank" rel="noopener">Warwick study of the revisions ↗</a>
-- **“A Guide to Berlin” — Vladimir Nabokov.** A narrator describes pipes, a streetcar, workers, the zoo, and a pub to a bored companion. He imagines that future readers will see ordinary objects as precious history, turning a small city guide into a reflection on time and art. This is a likely match for “Berlin”; verify the author if your exam names a different work. <a href="https://ora.ox.ac.uk/objects/uuid%3A5199c291-44e3-4cd7-a146-4226ec837e11/files/m99cd241f6ca3654aabc68f77dba22162" target="_blank" rel="noopener">Oxford research discussion ↗</a>
 - **Ulysses — James Joyce.** On June 16, 1904, Leopold Bloom and Stephen Dedalus move through Dublin in episodes that echo Homer’s Odyssey. Mundane errands, memory, and consciousness become epic material; Molly Bloom’s closing monologue ends the novel in a vivid interior voice.
 - **Mrs Dalloway — Virginia Woolf.** Clarissa Dalloway prepares for a party during one day in London while Septimus, a veteran traumatized by war, experiences isolation and pressure from doctors. Their separate lives meet through themes of memory, time, class, and society’s treatment of mental distress.
 - **The Waste Land — T. S. Eliot.** A fragmented five-part poem combines multiple voices, languages, myths, and literary allusions. Its broken form evokes cultural and spiritual dislocation in the aftermath of World War I; it has no single continuous plot.
@@ -372,8 +371,8 @@ The interactive quiz includes these supplementary questions about authors, plots
 - **Week 10: What event drives Gilgamesh’s quest and also shapes modernist uncertainty in the era after 1914?** Answer: Enkidu’s death; World War I. This item compares two different works and periods: Gilgamesh’s grief and the modern shock of war.
 - **Week 10: In “Tickets, Please!”, what happens after the inspector abandons Annie?** Answer: Annie joins the conductresses in confronting him; his forced choice does not restore their relationship. The ending is uneasy and dissatisfied, making simple revenge or romance readings incomplete. Lawrence substantially revised it for the 1922 collection, so check your assigned edition.
 - **Week 10: Who is the inspector pursued by Annie and the other conductresses in “Tickets, Please!”?** Answer: John Joseph Raynor. D. H. Lawrence’s story connects desire and gender power with women’s wartime tram labor.
-- **Week 10: What city and date anchor Joyce’s Ulysses?** Answer: Dublin, June 16, 1904. The episodes follow Leopold Bloom and Stephen Dedalus over a single day.
-- **Week 10: What five ordinary things structure Nabokov’s “A Guide to Berlin”?** Answer: Pipes, a streetcar, work, the zoo/Eden, and a pub. The short story turns everyday details into artifacts that future readers may value as history.
+- **Week 10: What does Bloom offer Stephen when he brings him home late that night?** Answer: Cocoa and conversation. Stephen leaves; Bloom returns to bed beside Molly.
+- **Week 10: What does Bloom offer Stephen when he brings him home late that night?** Answer: Cocoa and conversation; Stephen leaves, and Bloom returns to bed beside Molly.
 - **Week 10: What makes Calvino’s If on a winter’s night a traveler metafictional?** Answer: It makes the reader a character and interrupts one narrative with other beginnings. The novel draws attention to how stories and reading are constructed.
 - **Week 10: What do viewers control in Black Mirror: Bandersnatch?** Answer: Choices that branch the story of programmer Stefan Butler. The interactive structure invites questions about agency and control.
 - **Week 11: Why does Antigone disobey Creon’s order?** Answer: She believes sacred duty requires burying her brother. The tragedy puts religious/family obligation against state authority.
@@ -395,13 +394,364 @@ The interactive quiz includes these supplementary questions about authors, plots
 
 - [University of Texas at Austin guide to Dante’s Comedy](https://richmond.la.utexas.edu/wp-content/uploads/2015/09/9_Sept-28-Dante-1010-1039.pdf)
 - [Cambridge overview of Beowulf](https://assets.cambridge.org/97805211/00625/excerpt/9780521100625_excerpt.pdf)
+- [Johns Hopkins University Press episode-by-episode guide to Ulysses](https://press.jhu.edu/books/title/12755/guide-james-joyces-ulysses)
+- [Ulysses episode guide to Molly Bloom’s closing monologue](https://www.ulyssesguide.com/18-penelope)
+- [Project Gutenberg full text of Ulysses](https://www.gutenberg.org/ebooks/4300)
 - [Folger edition, synopsis, and full text](https://shakespeare.folger.edu/downloads/pdf/hamlet_PDF_FolgerShakespeare.pdf)
 - [Cambridge University Press on Don Quixote](https://assets.cambridge.org/97805213/13452/excerpt/9780521313452_excerpt.pdf)
 - [University of Warwick research on the story’s revised ending](https://wrap.warwick.ac.uk/id/eprint/130206/1/WRAP_Theses_Concepcion_1993.pdf)
-- [Oxford research on Nabokov’s “A Guide to Berlin”](https://ora.ox.ac.uk/objects/uuid%3A5199c291-44e3-4cd7-a146-4226ec837e11/files/m99cd241f6ca3654aabc68f77dba22162)
 - [D. H. Lawrence, England, My England collection containing “Tickets, Please!”](https://archive.org/details/englandmyengland00lawrrich)
 - [Research on the Manu flood traditions](https://msrvvp.ac.in/ved-vidya/30_Vedavidya.pdf)
 - [University of Chicago research on Egyptian cosmogonies](https://knowledge.uchicago.edu/record/4829/files/Johansen_uchicago_0330D_16525.pdf)
 - [Project Gutenberg full text](https://www.gutenberg.org/ebooks/768)
 
 The course sets the syllabus and self-check prompts. Supplementary sources support plot and literary context; compare these notes with your assigned reading and your instructor’s preferred terms.
+
+
+## Expanded bookshelf: fuller story and argument guides
+
+These expanded summaries include spoilers. Story-based entries trace the main characters, conflict, turning point, and ending; theory and nonfiction entries outline the central argument.
+
+### Week 1 · Entering the world of literature
+
+#### The Great Conversation — Course concept
+
+**How to picture the idea:** Imagine writers across time answering, revising, challenging, and borrowing from earlier books, while later readers change what those books mean. A Roman poet can rework a Greek epic; a modern novelist can question older values; a new reader can notice voices earlier audiences overlooked.
+
+There is no single meeting or final list of participants. The metaphor describes an ongoing exchange, not proof that every culture shares one origin or that one canon is permanent. Ask who has been included, who has been left out, and how a later work responds to an earlier one.
+
+#### Cinderella — Folktale tradition
+
+**Story:** In a familiar European version, Cinderella is made to do exhausting housework by her stepmother and stepsisters. When a royal ball is announced, they go dressed for court and leave her behind. A magical helper gives her fine clothes and a coach, warning that the magic will end at midnight. The prince is taken with her, but she escapes before he learns who she is.
+
+**Ending and variants:** She loses a shoe on the stairs. The prince searches the kingdom, and the shoe fits Cinderella, revealing her identity and leading to marriage and a new life. Helpers, punishments, and endings differ across Cinderella tales. Treat this as a family of folktales, not one fixed original, and compare what each version says about work, kindness, marriage, and justice.
+
+### Week 2 · Approaches to reading great books
+
+#### The Great Gatsby — F. Scott Fitzgerald
+
+**Story:** Nick Carraway rents a modest house on Long Island beside the mansion of Jay Gatsby, a mysterious millionaire whose parties attract crowds but few real friends. Nick learns that Gatsby and Nick’s cousin Daisy Buchanan loved one another before the war. Gatsby has built his fortune and home partly in the hope that Daisy will return. Nick arranges a reunion, and the old romance briefly comes alive.
+
+**Turning point and ending:** Gatsby wants Daisy to leave her husband Tom and restore the past. During a tense trip to New York, Tom exposes Gatsby’s criminal business, and Daisy—driving Gatsby’s car—strikes and kills Tom’s mistress Myrtle Wilson. Gatsby accepts blame to protect Daisy. Myrtle’s husband George is led to believe Gatsby was responsible; he shoots Gatsby and then himself. Daisy and Tom retreat into their wealth, and almost no one attends Gatsby’s funeral. Nick leaves disillusioned by privilege, fantasy, and carelessness.
+
+#### The Catcher in the Rye — J. D. Salinger
+
+**Story:** Holden Caulfield narrates from a place where he is receiving care. Just expelled from Pencey Prep, he leaves early and spends several days alone in New York City instead of immediately facing his parents. He wanders hotels, bars, museums, and streets, meeting people but repeatedly feeling disappointed by what he calls adult phoniness. His funny, defensive voice is shaped by grief and loneliness.
+
+**Ending and change:** Holden thinks about his younger brother Allie, who has died, and looks for connection with his sister Phoebe. He considers running away, but Phoebe insists on joining him. At the zoo, he watches her ride the carousel in the rain and feels a rare happiness as she reaches for the gold ring. He decides not to leave. The book ends with a small movement toward accepting change and the people he misses, not a claim that he is fully recovered.
+
+### Week 3 · Greek and Roman foundations
+
+#### The Republic — Plato
+
+**Argument:** Plato presents a conversation led by Socrates, who asks what justice is. After several definitions fail, the speakers imagine a city so they can examine justice on a larger scale. They debate education, the duties of rulers and guardians, the danger of appetite and power, and the idea that a just person’s inner life has order rather than being ruled by selfish desire.
+
+**Key image and conclusion:** In the Allegory of the Cave, prisoners mistake shadows for the whole world. A difficult education turns one prisoner toward the light, and returning to explain the truth is painful. Education becomes a reorientation of the mind, not merely filling it with facts. The dialogue argues for rule guided by knowledge, while leaving readers to debate the political costs of Plato’s ideal city.
+
+#### Poetics — Aristotle
+
+**Argument:** Aristotle examines how poetry and drama represent human action. His surviving discussion gives special attention to tragedy: characters act, choices produce consequences, and a plot arranges those actions into a meaningful whole. A strong plot is more than a chain of surprises; events connect by probability or necessity so that a change in fortune feels earned.
+
+**What to remember:** Reversal changes the direction of events, recognition changes what a character knows, and suffering makes consequences visible. Aristotle connects tragic experience with pity, fear, and catharsis, though scholars debate the exact meaning of catharsis. These are tools for analyzing how a play works on its audience, not a recipe every tragedy must follow.
+
+#### Oedipus Rex — Sophocles
+
+**Story:** A plague devastates Thebes. King Oedipus promises to find who murdered the former king, Laius, because the city has been told that the killer must be found. The prophet Tiresias resists the investigation, then says Oedipus himself is responsible. Oedipus suspects a political plot. His wife Jocasta tries to calm him by describing the prophecy she and Laius once tried to defeat.
+
+**Recognition and ending:** A messenger and an old shepherd reveal that Oedipus was taken from his birth parents as a baby. On the road years earlier, he unknowingly killed Laius, his father, and later married Jocasta, his mother. Jocasta kills herself; Oedipus blinds himself and asks to be exiled. An investigation meant to cleanse the city becomes a devastating discovery about identity, knowledge, and responsibility.
+
+#### Antigone — Sophocles
+
+**Story:** After brothers Eteocles and Polyneices kill one another in civil war, their uncle Creon becomes king. He honors Eteocles but orders that Polyneices remain unburied as punishment for attacking Thebes. Antigone believes burial is a sacred duty owed to her brother, so she secretly scatters dust over his body. Creon arrests her even after she admits what she did; her sister Ismene is too late to share the blame.
+
+**Ending:** Creon’s son Haemon, engaged to Antigone, pleads for mercy. The prophet Tiresias warns that the gods reject Creon’s decision. Creon changes his mind, but reaches the tomb after Antigone has hanged herself. Haemon kills himself beside her, and Creon’s wife Eurydice dies after hearing the news. Creon survives, grieving the family he destroyed. The play asks what happens when political authority refuses to listen to family, religious duty, and counsel.
+
+#### Aeneid — Virgil
+
+**Story:** After Troy is destroyed, Aeneas escapes carrying his father Anchises and guiding his son Ascanius, while survivors follow in search of a new home. Storms and divine hostility delay them. In Carthage, Queen Dido and Aeneas fall in love, and he briefly imagines staying. The god Mercury reminds him that his people’s future lies in Italy. Aeneas sails away; Dido, abandoned, kills herself and curses the future conflict between their peoples.
+
+**Ending and purpose:** In Italy, Aeneas must fight Turnus and local forces before the Trojans can settle. The war costs many lives, including his young ally Pallas. The epic ends when Aeneas defeats Turnus in single combat; seeing Pallas’s belt on his enemy, he kills Turnus in anger. Rome has not yet been founded within the story, but the poem links Aeneas’s painful journey to its legendary origins and asks what a public destiny costs individuals.
+
+#### Meditations — Marcus Aurelius
+
+**What is in the book:** This is not a continuous story but private notes Marcus Aurelius wrote while serving as Roman emperor. He reminds himself to meet annoyance without cruelty, act fairly, notice how brief life is, and avoid being controlled by praise, anger, or fear. He often imagines that other people act from limited understanding rather than from a plan to harm him.
+
+**How to read it:** This advice is practice, not a claim that difficult feelings disappear. Stoic discipline separates what depends on one’s choices—judgment, intention, conduct—from what does not—other people’s opinions, illness, or death. The repetitions make the book feel like a person returning to the same ethical work each day.
+
+### Week 4 · Oral tradition and mythology
+
+#### Epic of Gilgamesh — Anonymous Mesopotamian tradition
+
+**Story:** Gilgamesh, king of Uruk, is powerful but abuses his people. The gods create Enkidu, a wild man, and send him to challenge the king. They fight, then become close companions. Together they defeat the guardian Humbaba and later kill the Bull of Heaven. The goddess Ishtar demands punishment, and Enkidu dies. Grief turns Gilgamesh’s strength into terror: if Enkidu can die, so can he.
+
+**Ending:** Gilgamesh travels to find Utnapishtim, the survivor of an ancient flood who was granted eternal life. Utnapishtim challenges him to stay awake, and Gilgamesh fails. He briefly obtains a plant said to restore youth, but a snake steals it while he bathes. He returns to Uruk without immortality. The city’s walls and the memory of his deeds suggest a human legacy that outlasts an individual, though the poem does not pretend death is easily conquered.
+
+#### Genesis: Noah and the Flood — Hebrew Bible tradition
+
+**Story:** In Genesis, God sees widespread violence and corruption and decides to flood the earth. Noah is instructed to build an ark for his family and representatives of the animals. The rain and rising waters cover the land; the ark preserves life until the flood recedes. Noah sends birds out to learn whether dry ground has returned. A dove eventually brings back an olive leaf, and the family leaves the ark.
+
+**Ending and context:** Noah makes an altar, and God establishes a covenant not to destroy all life by flood again; the rainbow becomes its sign. Animal counts and other details vary across parts of the biblical text and later retellings, so keep the assigned version in view. The narrative moves from destruction toward preservation and a renewed obligation to protect life.
+
+#### Malakas and Maganda — Philippine creation-story tradition
+
+**Story:** In a well-known Philippine origin-story version, a bird flies over a world of sea and sky and hears a bamboo stalk being struck. It pecks the bamboo open, and a man and woman emerge: Malakas and Maganda, names often glossed as strong and beautiful. Their descendants populate the land, connecting human beginnings to a familiar plant, a bird, and the Philippine landscape.
+
+**Why versions matter:** There is no single written master copy that fixes every detail for all Philippine communities. Retellings differ in the bird, bamboo, first couple, and origin of the world around them. Learn the version your class assigned, and describe this as one traditional origin narrative rather than a universal account for every Filipino people.
+
+#### The Odyssey — Homeric tradition
+
+**Story:** After the Trojan War, Odysseus tries to sail home to Ithaca, but the journey lasts ten years. He tells of the Cyclops Polyphemus, whom he blinds before escaping; the enchantress Circe; the dead he consults in the underworld; the Sirens; and the monsters Scylla and Charybdis. His men are lost after disobeying warnings about the sun god’s cattle. Odysseus reaches Ithaca alone, while his wife Penelope and son Telemachus face suitors consuming the household’s wealth and demanding that Penelope marry.
+
+**Return and ending:** Athena disguises Odysseus as a beggar so he can test who remains loyal. Telemachus recognizes his father, and Penelope announces a bow contest that only Odysseus can win. He reveals himself, defeats the suitors with Telemachus and servants, and reunites with Penelope after she tests him with a secret about their bed. The poem celebrates homecoming but also shows how violently Odysseus restores control.
+
+#### The Hunger Games — Suzanne Collins
+
+**Story:** In the future nation of Panem, the Capitol forces each district to send one girl and one boy to a televised fight in which only one tribute is meant to survive. When twelve-year-old Primrose Everdeen is selected, her older sister Katniss volunteers in her place. Katniss is sent from poor District 12 with Peeta Mellark. Training, sponsors, alliances, and the arena turn their survival into entertainment for the Capitol.
+
+**Turning point and ending:** Katniss befriends Rue, a young tribute from another district, but Rue is killed. When the rules appear to demand that either Katniss or Peeta kill the other, they threaten to eat poisonous berries together. The Capitol retreats and declares them co-victors. Their choice saves them but publicly humiliates the government, making Katniss a symbol whose political consequences neither teenager fully controls.
+
+#### Manu and the Great Flood — Satapatha Brahmana and later Hindu traditions
+
+**Story:** In one version from the Shatapatha Brahmana, Manu finds a tiny fish and protects it in a jar. As it grows, he transfers it to larger waters. The fish warns him that a flood will destroy living beings and tells him to build a boat. When the waters rise, Manu ties the boat to the fish’s horn; the fish leads him to safety on a mountain.
+
+**After the flood:** Manu survives alone and performs a ritual offering. From it, a woman named Ida appears, and together they become ancestors of humanity in this tradition. Later Hindu tellings identify the fish with Vishnu’s Matsya avatar and add other details. Keep the versions distinct: these are related retellings, not one fixed story. [Research on Manu and Hindu flood traditions ↗](https://msrvvp.ac.in/ved-vidya/30_Vedavidya.pdf)
+
+#### Heliopolitan Creation Myth (the Ennead) — Ancient Egyptian religious tradition
+
+**Creation sequence:** In the Heliopolitan account, the world begins as Nun, the boundless primeval water. Atum brings himself into being and creates Shu, associated with air, and Tefnut, associated with moisture. Their descendants are Geb, the earth, and Nut, the sky. Geb and Nut become parents of Osiris, Isis, Seth, and Nephthys, completing the group often called the Ennead—the nine deities of this tradition.
+
+**What to remember:** The story gives cosmic forces family relationships and explains how the ordered world and divine generations emerge from the original waters. It is one major Egyptian creation account among several; Egyptian religious traditions varied by place and period. [University of Chicago research on Egyptian creation traditions ↗](https://knowledge.uchicago.edu/record/4829/files/Johansen_uchicago_0330D_16525.pdf)
+
+### Week 5 · Medieval worlds: allegory, chivalry, and epic
+
+#### Everyman — Anonymous English morality play
+
+**Story:** In this medieval morality play, God sees people absorbed in worldly life and sends Death to summon Everyman for an account of his life. Everyman asks for time and searches for a companion. Fellowship, Kindred, Cousin, and Goods promise support at first, then abandon him when the journey becomes serious. He turns to Confession and receives penance; Good Deeds, initially too weak to travel, grows stronger as he prepares.
+
+**Ending and lesson:** Beauty, Strength, Discretion, and the Five Wits accompany Everyman for part of the journey, then leave him as he approaches the grave. Good Deeds remains. The characters are personifications, so the plot is an allegory about death and judgment rather than realistic psychology. The play teaches its Christian audience that moral action—not wealth, social ties, or physical beauty—is what accompanies a person beyond death.
+
+#### Le Morte d’Arthur — Thomas Malory
+
+**Story:** Malory gathers many Arthurian adventures into one cycle. Merlin helps the young Arthur claim kingship by drawing a sword from a stone, and Arthur builds a court around the Round Table. Knights travel on quests, fight rivals, rescue people, and seek the Holy Grail. Lancelot becomes Arthur’s greatest knight, but his love for Queen Guinevere conflicts with loyalty to the king. The Grail quest reveals that courage alone is not enough: spiritual purity matters in many versions.
+
+**Ending:** Lancelot and Guinevere’s relationship fractures the fellowship. Political enemies exploit the scandal, and Arthur’s son Mordred rises against him while Arthur is away. At the battle of Camlann, Arthur and Mordred wound one another mortally. Arthur is carried away toward Avalon, leaving uncertainty about whether he is dead or will return. The kingdom’s fall turns the promise of chivalric unity into a story about betrayal, divided loyalties, and the limits of heroic rule.
+
+#### Beowulf — Anonymous Old English poet
+
+**Story:** The Danish king Hrothgar’s hall, Heorot, is attacked at night by Grendel. Beowulf, a young warrior from the Geats, sails to help and fights the monster without a weapon, tearing off its arm. Grendel’s mother then attacks to avenge her son. Beowulf follows her to an underwater lair and kills her with an ancient sword. He returns home with fame and later becomes king.
+
+**Final battle:** After ruling for many years, Beowulf faces a dragon awakened when someone steals a cup from its hoard. His warriors flee; only the young Wiglaf stays to help. Together they kill the dragon, but Beowulf is mortally wounded. He asks to see the treasure and appoints Wiglaf before dying. The Geats build a funeral mound and fear their neighbors will attack. The poem honors courage while showing that even the greatest hero cannot stop time or secure the future forever. [Cambridge University Press introduction ↗](https://assets.cambridge.org/97805211/00625/excerpt/9780521100625_excerpt.pdf)
+
+#### Inferno — Dante Alighieri
+
+**Journey:** At midlife, the pilgrim Dante finds himself lost in a dark wood and blocked by beasts. The Roman poet Virgil leads him through Hell, a vast descending landscape divided into circles. Dante meets people whose choices in life determine their punishment: the lustful are swept by a storm, fortune-tellers walk with their heads turned backward, and traitors are frozen in ice. The punishments mirror the sins in a principle often called contrapasso.
+
+**Ending and purpose:** Dante hears political enemies and famous figures tell their stories, and learns that pity is not the same as understanding justice. At the bottom, Satan is trapped in ice, chewing on three great traitors. Virgil and Dante climb down his body, pass through the earth’s center, and emerge to see the stars before the next part of the journey. The poem combines spiritual allegory with the politics of Dante’s Italy. [University of Texas at Austin guide to Dante ↗](https://richmond.la.utexas.edu/wp-content/uploads/2015/09/9_Sept-28-Dante-1010-1039.pdf)
+
+#### Arthurian Grail romances — Chrétien de Troyes and later writers
+
+**Story world:** These are related medieval romances, not one fixed novel. Knights of Arthur’s court hear of the Grail and set out separately. Each journey tests a different quality: courage in battle, loyalty to others, humility, restraint, and readiness to recognize spiritual meaning. Lancelot’s skill cannot erase his conflict between love for Guinevere and his vows; Gawain’s pride or impulsiveness can distort his judgment; Perceval must learn to ask the right questions.
+
+**Endings vary:** In later Christianized versions, Galahad is pure enough to see the Grail fully, while other knights fail or receive only partial vision. Chrétien de Troyes’s unfinished Perceval differs from later Lancelot-Grail cycles and Malory’s version. Identify the author and ending of the assigned account instead of combining every Grail story into one plot.
+
+### Week 7 · Renaissance and Enlightenment
+
+#### Hamlet — William Shakespeare
+
+**Story:** Prince Hamlet grieves his father when the dead king’s ghost says that Claudius, Hamlet’s uncle, murdered him and married his widow Gertrude. Hamlet is unsure whether to trust the ghost, so he stages a play that reenacts the alleged murder and watches Claudius react. He delays, argues with himself, and mistakenly kills Polonius while spying through a curtain. Ophelia, Polonius’s daughter and Hamlet’s former love, loses her father and later dies; her brother Laertes returns seeking revenge.
+
+**Ending and the famous line:** Claudius arranges for Hamlet to be killed in a rigged fencing match. Poisoned swords and a poisoned drink set off a chain of deaths: Gertrude, Laertes, Claudius, and Hamlet all die. Fortinbras arrives to claim Denmark. Earlier, in Act 3, Scene 1, “To be or not to be” weighs enduring life’s pain against ending it, while fearing what may follow death. It is a reflection on suffering and the unknown, not simply a decision about whether to kill Claudius. [Folger Shakespeare Library synopsis and text ↗](https://shakespeare.folger.edu/downloads/pdf/hamlet_PDF_FolgerShakespeare.pdf)
+
+#### A Modest Proposal — Jonathan Swift
+
+**Argument disguised as a plan:** Swift’s speaker describes Irish poverty in the language of a confident policy adviser. He proposes that poor families sell one-year-old children as food to wealthy landlords, then calculates the supposed financial benefits. He presents the plan as sensible arithmetic, even claiming it would reduce poverty. That calm tone is part of the shock.
+
+**What the satire attacks:** The speaker’s willingness to price children exposes a society that treats poor Irish people as a burden or resource rather than as human beings. Swift targets English exploitation, absentee landlords, and policy makers’ indifference. The proposal is not sincere. Its grotesque conclusion makes readers confront how dehumanizing economic language can become when it ignores people’s lives.
+
+#### Candide — Voltaire
+
+**Story:** Candide grows up in a sheltered castle and is taught by Pangloss that their world is the best possible one. After falling in love with Cunégonde, he is expelled and forced through war, an earthquake, religious persecution, and exploitation. He finds Pangloss again, meets survivors thought dead, and travels from Europe to South America. In Eldorado, he discovers a peaceful, wealthy society, but leaves with jewels because he still hopes to find Cunégonde.
+
+**Ending:** Candide and his companions reunite after many losses, but money and romance do not make their troubles disappear. A neighbor’s modest farm offers another model: work, care for one another, and attend to what is directly in front of you. Candide rejects Pangloss’s endless explanations with the decision to cultivate their garden. The ending favors practical responsibility over abstract optimism without claiming that suffering has a neat explanation.
+
+#### Rights of Man — Thomas Paine
+
+**Argument:** Paine writes in defense of the French Revolution and against Edmund Burke’s defense of inherited political authority. He argues that people possess natural rights and that governments exist to protect those rights, not to pass power automatically from one generation to the next. A constitution should express the will of living citizens and make representatives answerable to them.
+
+**Why it mattered:** Paine connects political legitimacy with public welfare. He criticizes aristocratic privilege and proposes reforms such as public support for education and relief for poverty. The book is an intervention in arguments about monarchy, revolution, and democracy, not a neutral history. Learn its central contrast: inherited rank versus rights and consent.
+
+#### A Vindication of the Rights of Woman — Mary Wollstonecraft
+
+**Argument:** Wollstonecraft challenges writers who claim women are naturally less rational. She argues that girls are trained to seek beauty, dependence, and approval, then blamed for lacking the intellectual strength they were denied the chance to develop. If reason and virtue matter, women need serious education and the freedom to use their minds.
+
+**Conclusion:** Wollstonecraft calls for a more equal society in which women can become independent citizens and partners rather than ornamental dependents. She also criticizes men’s education and social behavior; the problem is not simply women’s individual choices but an unjust system of training and expectations. The book argues for rational education and mutual respect.
+
+### Week 8 · The rise and craft of the novel
+
+#### Don Quixote — Miguel de Cervantes
+
+**Story:** Alonso Quixano, a country gentleman, reads so many tales of chivalry that he loses his ordinary sense of the world. He renames himself Don Quixote, recruits his practical neighbor Sancho Panza as squire, and rides out to defend the helpless. Windmills become giants, inns become castles, and ordinary travelers become characters in heroic quests. Sancho often sees what is actually there, but is also drawn into his master’s hopes and promises of reward.
+
+**Ending:** In the second part, Don Quixote’s adventures are famous, and other characters use that fame to trick him. The Duke and Duchess stage cruel performances; Sancho briefly governs an island and proves wiser than expected. Eventually a disguised neighbor defeats Don Quixote and sends him home. Alonso regains his reason, renounces knight-errantry, and dies. The ending turns comic misreadings into a question about imagination, dignity, and how others exploit a dreamer. [Cambridge University Press overview ↗](https://assets.cambridge.org/97805213/13452/excerpt/9780521313452_excerpt.pdf)
+
+#### Jane Eyre — Charlotte Brontë
+
+**Story:** Jane is an orphan raised by an unkind aunt and sent to Lowood School, where hunger, illness, and strict discipline shape her childhood. She becomes a teacher, then a governess at Thornfield Hall. Jane falls in love with the house’s master, Edward Rochester, but on their wedding day learns that he already has a wife, Bertha Mason, hidden in the house. Jane refuses to become his secret partner and leaves with almost nothing.
+
+**Ending:** The Rivers siblings take Jane in, and she discovers they are her cousins; an inheritance gives her financial independence. She hears Rochester calling to her and returns to find Thornfield burned. Bertha died in the fire, and Rochester was injured and has lost his sight. Jane chooses to marry him when she can do so freely and on more equal terms. The resolution depends on Jane’s moral independence, not simply on winning a wealthy husband.
+
+#### Pride and Prejudice — Jane Austen
+
+**Story:** The Bennet family faces pressure to secure marriages because their estate will pass to a male relative. When wealthy Charles Bingley rents a nearby house, Jane Bennet and he fall in love, while Elizabeth meets his friend Mr Darcy and judges him proud. Darcy’s first proposal confirms her worst impression; she rejects him and accuses him of separating Jane and Bingley and mistreating the officer George Wickham.
+
+**Change and ending:** Darcy’s letter reveals that Wickham has lied and that Darcy believed Jane did not return Bingley’s affection. Elizabeth recognizes that she misread people, while Darcy tries to become less arrogant. Lydia runs away with Wickham, threatening the family’s reputation; Darcy quietly arranges their marriage. Bingley returns to Jane, and Darcy proposes again. Elizabeth accepts after both have learned to revise their pride and prejudice.
+
+#### The Adventures of Sherlock Holmes — Arthur Conan Doyle
+
+**What the collection contains:** This is a series of cases narrated mostly by Dr Watson, not one continuous mystery. Clients bring Holmes strange clues: a secret society that exists to employ a man, a missing treasure, a cryptic message, or a threat hidden in an ordinary household. Watson often records the facts without knowing which detail matters. Holmes notices patterns in clothing, timing, marks, or behavior and turns them into an explanation.
+
+**How to read it:** Each story builds suspense by limiting what the narrator and reader know. Holmes’s deductions can be clever but also depend on assumptions, and Watson’s admiration shapes the portrait of the detective. The pleasure is watching an ordinary clue change meaning once the surrounding facts are known. Different editions select different stories, so check which cases your course assigns.
+
+### Week 9 · Romanticism, the Victorian age, and empire
+
+#### Oliver Twist — Charles Dickens
+
+**Story:** Oliver grows up in a parish workhouse where the poor are treated as problems to manage. After asking for more food, he is apprenticed to an undertaker and escapes to London. There he is taken in by Fagin, who trains homeless boys to steal. Oliver is innocent of their crimes, but the brutal Bill Sikes and the gang pull him into danger. A wealthy gentleman, Mr Brownlow, briefly gives him a safe home before the gang recaptures him.
+
+**Ending:** Nancy risks her life to tell Rose Maylie and Brownlow that Oliver is in danger and reveal what she knows about his birth. Sikes murders Nancy and later dies while fleeing; the criminal group collapses. Brownlow discovers Oliver’s family history, and Oliver is adopted into a safer household. Dickens exposes the cruelty of workhouses and child exploitation, though the rescue ending also relies on the Victorian idea that hidden good birth can secure a child’s future.
+
+#### Hard Times — Charles Dickens
+
+**Story:** In the factory town of Coketown, schoolmaster Thomas Gradgrind believes children should learn facts and suppress imagination. His daughter Louisa is trained to hide her feelings; his son Tom grows selfish; Sissy Jupe, raised among circus performers, brings kindness into the household. Louisa marries the much older industrialist Josiah Bounderby though she does not love him. Her brother Tom works for Bounderby and falls into debt and gambling.
+
+**Ending:** Tom robs a bank and lets an innocent factory worker, Stephen Blackpool, be suspected. Louisa nearly leaves her husband for James Harthouse, but her father sees what his education has done and takes her home. Sissy helps expose Tom, who escapes abroad; Bounderby’s story of rising from poverty is revealed as a lie. Louisa remains unmarried, while Gradgrind begins to value feeling and imagination. Dickens attacks a system that reduces people to statistics and labor.
+
+#### Dracula — Bram Stoker
+
+**Story:** Jonathan Harker travels to Transylvania to complete a property transaction and discovers that his host, Count Dracula, is a vampire planning to move to England. Harker is imprisoned in the castle; Dracula reaches England with boxes of native earth. Mina Murray and her friend Lucy Westenra become involved as Dracula preys on Lucy. Doctor Van Helsing recognizes the danger, but Lucy dies and rises as a vampire before the group can stop her.
+
+**Ending:** Mina and the men compare diaries and letters to understand Dracula’s movements. Dracula attacks Mina, binding her to him, so the group pursues him back toward Transylvania. They catch his transport before it reaches safety and destroy him; Quincey Morris is mortally wounded, but Mina is freed from the vampire’s influence. The documentary form makes the characters assemble evidence like investigators, while the monster brings anxieties about invasion, sexuality, science, and social change.
+
+#### Strange Case of Dr Jekyll and Mr Hyde — Robert Louis Stevenson
+
+**Story:** Lawyer Gabriel Utterson hears that a violent man named Edward Hyde has been given access to the respectable Dr Henry Jekyll’s home and fortune. Hyde tramples a child, then murders Sir Danvers Carew. Jekyll first promises to cut Hyde off, but later shuts himself away. Utterson and Jekyll’s friend Dr Lanyon each uncover pieces of the secret; Lanyon is so horrified by what he sees that he falls ill and dies.
+
+**Reveal and ending:** Documents left by Lanyon and Jekyll explain the mystery. Jekyll developed a potion intended to separate his respectable self from forbidden impulses. The transformation produces Hyde, who becomes increasingly violent and eventually appears without the potion. Jekyll cannot control when he changes and fears arrest. His final confession ends with Hyde’s body dead in Jekyll’s room. Stevenson turns a London mystery into a Gothic question about divided identity, repression, and the danger of imagining evil can be safely separated from oneself.
+
+#### “The White Man’s Burden” — Rudyard Kipling
+
+**What the poem says:** Kipling addresses the United States as it expands its colonial power after the Spanish-American War. The speaker describes empire as a difficult duty: the imperial nation claims to educate and govern peoples it portrays as childlike or incapable of self-rule. A repeated command frames domination as noble sacrifice rather than as a pursuit of territory and power.
+
+**How to read it critically:** The poem is an example of paternalistic imperial ideology, not a neutral account of colonized people. Its language gives the colonizer moral authority while denying colonized societies equal agency. Ask who is allowed to speak, who is described as needing help, and whose interests the supposed burden serves. The title has since been used critically to challenge the idea that conquest is benevolent.
+
+#### Hopes and Impediments — Chinua Achebe
+
+**What the book contains:** Achebe’s essays discuss African writing, colonial literature, culture, and the right of African writers to tell their own histories. In “An Image of Africa,” he criticizes Joseph Conrad’s Heart of Darkness for making Africa a backdrop for European fears while denying African characters full humanity. Other essays reflect on language, oral traditions, readership, and the responsibilities of the writer.
+
+**Why it matters:** This is a collection of arguments, not a single story. Achebe asks readers to examine who gets to represent whom and how literary prestige can make stereotypes look like truth. Read it alongside, rather than as a replacement for, the works it critiques; comparison helps distinguish Conrad’s artistic choices from Achebe’s later challenge to them.
+
+#### Wuthering Heights — Emily Brontë
+
+**Story:** The tenant Lockwood visits Wuthering Heights and hears housekeeper Nelly Dean recount two generations of family history. As a child, Heathcliff is brought into the Earnshaw family and becomes inseparable from Catherine. Catherine loves him but marries Edgar Linton because of class and security. Heathcliff overhears part of her confession, leaves, then returns wealthy and determined to punish both families. Catherine dies after giving birth to a daughter, Cathy.
+
+**Ending:** Heathcliff’s revenge reaches the next generation: he controls Cathy and forces her to marry his sickly son Linton, and keeps Hareton uneducated and dependent. After Linton dies, young Cathy and Hareton gradually become friends and fall in love, breaking the pattern of cruelty. Heathcliff, increasingly consumed by memories of Catherine, stops pursuing revenge and dies. Lockwood later sees their graves and hears of the young couple’s plans. The frame narrative and Gothic atmosphere make this about obsession and inheritance, not a simple romance. [Project Gutenberg text ↗](https://www.gutenberg.org/ebooks/768)
+
+### Week 10 · Modernism, postmodernism, and the digital frontier
+
+#### Sons and Lovers — D. H. Lawrence
+
+**Story:** Paul Morel grows up in a mining family where his mother Gertrude and father Walter argue over money, class, and their failed marriage. Gertrude turns much of her affection toward her sons. Paul is talented at drawing and finds work, but the death of his older brother William deepens his mother’s dependence on him. He grows close to Miriam Leivers, whose religious seriousness and love of nature attract him, yet he resists marrying her.
+
+**Ending:** Paul later has an affair with Clara Dawes, an older married woman, but neither relationship frees him from the emotional bond with his mother. When Gertrude becomes terminally ill, Paul gives her morphine to end her suffering. After her death, he feels pulled toward death himself, then turns toward the city and life. The novel’s ending is unresolved: he must decide who he is apart from his mother and whether he can form an adult attachment.
+
+#### “Tickets, Please!” — D. H. Lawrence
+
+**Story:** During World War I, women operate a tram line in the English Midlands while men are away. The conductresses work in harsh weather, manage unruly passengers, and develop a lively camaraderie. Inspector John Joseph Raynor oversees the route and flirts with several women. Annie becomes attached to him and expects the attention to mean more than it does; when Raynor turns to another woman, she and the other conductresses arrange to confront him.
+
+**Ending and edition note:** Their confrontation turns physical, exposing both the women’s collective anger and the violence Raynor has helped set in motion. The women force him to choose, and he names Annie, but the choice does not restore trust or make her happy. The story closes with a bruised, uncomfortable feeling rather than a clean victory. Lawrence substantially revised the story before its 1922 collection, especially the ending, so the version assigned in class matters. [Collection text ↗](https://archive.org/details/englandmyengland00lawrrich) · [Warwick research on the revision ↗](https://wrap.warwick.ac.uk/id/eprint/130206/1/WRAP_Theses_Concepcion_1993.pdf)
+
+#### Ulysses — James Joyce
+
+**Story:** James Joyce’s novel follows one ordinary day—June 16, 1904—in Dublin. Stephen Dedalus, a young teacher and aspiring writer, spends the morning at a Martello tower and later wanders through the city, carrying grief over his mother’s death and uncertainty about his future. Leopold Bloom, a Jewish advertising canvasser, leaves home to run errands, attend a funeral, place an advertisement, eat lunch, and think about his wife Molly, their dead infant son Rudy, and their daughter Milly.
+
+**Turning point and ending:** Bloom knows that Molly is expecting a visit from concert manager Blazes Boylan, and that Boylan will likely become her lover that afternoon; he still moves through the day, observing strangers and helping where he can. Stephen and Bloom cross paths, meet in a maternity hospital, and later share an uneasy night in the red-light district. Bloom brings Stephen home, offers him cocoa, and imagines him as a surrogate son, but Stephen leaves. Bloom returns to bed beside Molly. In the final episode, Molly’s restless memories turn toward her marriage proposal on Howth and end with an emphatic yes. The novel loosely echoes Homer’s Odyssey but turns errands, thoughts, grief, and city life into epic material. [Johns Hopkins University Press episode-guide reference ↗](https://press.jhu.edu/books/title/12755/guide-james-joyces-ulysses) · [Episode guide to Molly’s closing monologue ↗](https://www.ulyssesguide.com/18-penelope) · [Read the novel at Project Gutenberg ↗](https://www.gutenberg.org/ebooks/4300)
+
+#### Mrs Dalloway — Virginia Woolf
+
+**Story:** Clarissa Dalloway walks through London to buy flowers for a party she will host that evening. Ordinary streets stir memories of her youth at Bourton, especially her friendship with Sally Seton and her former suitor Peter Walsh. At the same time, Septimus Warren Smith, a veteran traumatized by war, walks through the city with his Italian wife, Lucrezia. Septimus hears voices and feels unable to return to ordinary life; doctors insist on controlling him instead of understanding him.
+
+**Ending:** Clarissa’s party brings together political guests and old acquaintances. Dr Bradshaw arrives late and mentions that Septimus has died by suicide after jumping from a window rather than be taken away for treatment. Clarissa briefly withdraws to consider his death and the pressure placed on him, then returns to her guests. The two characters never meet, but their parallel experiences join private memory, mortality, class, social performance, and society’s treatment of mental distress. The story lasts one day while moving repeatedly through the past.
+
+#### The Waste Land — T. S. Eliot
+
+**What happens:** This five-part poem has no single continuous plot. Its voices shift among a speaker remembering a difficult season, a fortune-teller, city workers crossing London Bridge, a pub conversation, a drowned sailor, and figures drawn from myth and scripture. Fragments of music, different languages, and older literary works appear beside modern scenes. Tiresias, the blind prophet, offers one thread connecting some of the voices, but he does not turn the poem into a simple narrative.
+
+**Ending and effect:** The last section moves through images of collapse, thunder, and broken fragments before ending with words drawn from ancient Indian texts. Readers disagree about how much hope the ending offers. Eliot’s broken form makes the reader experience cultural dislocation instead of merely hearing it described. The poem is often read in relation to World War I, but its sources and themes are broader than one event.
+
+#### Murder in the Cathedral — T. S. Eliot
+
+**Story:** Archbishop Thomas Becket returns to Canterbury after years of exile and knows that King Henry II’s conflict with the Church may lead to his death. A chorus of ordinary Canterbury women fears the danger approaching their community. Tempters visit Becket: they offer personal safety, political power, the king’s friendship, and finally the glory of choosing martyrdom. Becket must decide whether accepting death for fame would corrupt the sacrifice itself.
+
+**Ending:** Becket preaches about the meaning of martyrdom, then four knights arrive and murder him in the cathedral. The chorus speaks of the spiritual and social cost of the violence. The knights then defend their actions to the audience in language that sounds like a public justification. The verse drama makes the murder both a historical event and a question about power, conscience, faith, and the temptation to turn even sacrifice into self-promotion.
+
+#### Mrs Warren’s Profession — George Bernard Shaw
+
+**Story:** Vivie Warren is an educated young woman who expects to earn her own living. She learns that her mother, Mrs Warren, has made money through brothels and is still a partner in the business. Mrs Warren explains that poverty and limited respectable jobs pushed her into prostitution, and that she built financial security rather than accept hunger. Vivie struggles to reconcile her mother’s affection with the continued exploitation behind the business.
+
+**Ending:** Sir George Crofts, a wealthy business associate of Mrs Warren, tries to make Vivie accept a marriage that would bind her to his money and power. Vivie refuses. She also rejects her mother’s continuing business, even after learning the social conditions that shaped it, and chooses independent office work. Shaw asks the audience to examine the economic arrangements beneath Victorian sexual morality; Vivie’s independence is real but emotionally costly.
+
+#### The Land of Heart’s Desire — W. B. Yeats
+
+**Story:** On May Eve, the newly married Mary Bruin is surrounded by her husband Shawn, his family, and domestic duties. An otherworldly fairy child appears and offers Mary escape into a world of beauty, freedom, and endless youth. Mary is drawn to the offer, while the others try to hold her to ordinary family life. The play’s Irish folkloric setting makes the fairy world both alluring and dangerous.
+
+**Ending:** Mary follows the child’s call and collapses; her family cannot bring her back to ordinary consciousness, and she dies. The ending leaves open whether she has been taken into a supernatural realm or has been overcome by a force her family cannot understand. Yeats stages a conflict between human attachment and escape from domestic limits, while also asking what is lost when a person’s longing is dismissed as childish.
+
+#### The Man of Property — John Galsworthy
+
+**Story:** Soames Forsyte is a wealthy solicitor who regards people and beautiful objects alike as things to possess. He marries Irene, who does not love him, and commissions architect Philip Bosinney to build a country house. Bosinney falls in love with Irene, and she begins to imagine a life beyond Soames’s control. Soames sues Bosinney for exceeding the building budget, tightening pressure on the young architect and making the household conflict public.
+
+**Ending:** Bosinney dies after being struck by a cab, and Irene leaves Soames. Soames can legally claim his wife, but cannot make her love him or willingly remain. The Forsyte family treats the scandal as a threat to respectability and property. Galsworthy uses the family saga to examine class, marriage, possession, and the limits of a society that measures people by what they own.
+
+#### Labyrinths — Jorge Luis Borges
+
+**What the collection contains:** Borges’s book gathers short fiction and essays; it has no single plot. In “The Library of Babel,” a narrator imagines an immense library containing every possible combination of letters, so the search for one meaningful book becomes both a source of hope and despair. In “The Garden of Forking Paths,” a spy’s attempt to send a message intersects with a scholar’s explanation of an ancestor who created a novel-like labyrinth of branching time.
+
+**How to read it:** Other pieces use mirrors, doubles, invented books, and impossible puzzles to unsettle the line between reality and fiction. The stories are short, but their narrators often make confident claims that the reader must question. Borges turns ideas—time, infinity, authorship, identity—into narrative traps, then invites readers to decide whether the puzzle has been solved.
+
+#### If on a winter’s night a traveler — Italo Calvino
+
+**Story:** The novel addresses its reader as “you,” who begins to read a book called If on a winter’s night a traveler, only to discover that the printed copies are faulty. At a bookstore, you meet another reader, Ludmilla. You and she repeatedly try to continue, but each replacement book turns out to be a different novel and stops at a suspenseful moment. The book alternates these abandoned story openings with the continuing adventures of you and Ludmilla.
+
+**Ending and effect:** The search brings the Reader into contact with translators, publishers, an author, and people who want to control or counterfeit books. The novel’s structure makes interruption part of its plot: you keep wanting a complete story, while Calvino keeps showing how stories begin, circulate, and get read. The frame finally turns toward an ordinary shared life and reading in bed, without resolving every unfinished narrative.
+
+#### The Postmodern Condition — Jean-François Lyotard
+
+**Argument:** Lyotard’s book is a philosophical report on knowledge in technologically advanced societies, not a novel. It asks how scientific and cultural knowledge earns legitimacy when information is increasingly stored and transmitted by machines. Lyotard argues that confidence in large stories that promise universal progress, emancipation, or a single explanation of history has weakened.
+
+**What to remember:** He describes knowledge as moving among different language games, each with its own rules for what counts as a valid statement. The book’s famous idea of incredulity toward metanarratives does not mean that no one can know anything. It means that broad claims to universal authority should be examined, especially when they hide who benefits from them.
+
+#### Black Mirror: Bandersnatch — Charlie Brooker
+
+**Story:** Stefan Butler is a young programmer in 1984 who adapts a branching fantasy book into a computer game. His work is shaped by grief over his mother’s death, pressure from his father, and conversations with therapist Dr Haynes. The viewer makes choices for him—first small ones such as breakfast cereal, then decisions that affect his work, relationships, and safety. Some branches lead to different endings, while others make Stefan suspect someone is controlling him.
+
+**Ending and effect:** The story can end with Stefan’s game acclaimed, delayed, or destroyed, and with his fate changing according to the choices made. There is no single path that fully explains every branch. The interactive form makes the audience feel responsible for events, then asks how much control the viewer really has when the options and consequences were designed in advance.
+
+### Week 11 · The human condition: recurring conflicts
+
+#### The Scarlet Letter — Nathaniel Hawthorne
+
+**Story:** In Puritan Boston, Hester Prynne is publicly punished for adultery and forced to wear a scarlet A on her clothing. She refuses to name the child’s father, Reverend Arthur Dimmesdale, who continues preaching while hiding his guilt. Hester’s estranged husband, Roger Chillingworth, arrives under another name and becomes Dimmesdale’s physician, using his access to torment the minister. Hester’s daughter Pearl grows up curious and defiant under the town’s judgment.
+
+**Ending:** Hester meets Dimmesdale in the forest and they plan to leave for Europe with Pearl. At a public election-day ceremony, Dimmesdale instead confesses on the scaffold and dies. Chillingworth loses the purpose of his revenge and dies soon afterward; Pearl inherits his property and disappears from the town’s daily life. Hawthorne contrasts visible shame, private guilt, and public reputation without offering a simple moral verdict.
+
+#### Nineteen Eighty-Four — George Orwell
+
+**Story:** Winston Smith works for the Ministry of Truth, where he alters old documents so the Party’s current claims always appear correct. In a society of telescreens, informers, and Big Brother posters, even private thoughts can be treated as crimes. Winston begins a diary and falls in love with Julia. They rent a room they believe is hidden from surveillance, but the apparent refuge is a trap.
+
+**Ending:** Party official O’Brien reveals that the Thought Police have watched Winston. In the Ministry of Love, Winston is tortured until he accepts the Party’s version of reality and betrays Julia. Room 101 confronts him with his worst fear. When he is released, he no longer resists or loves Julia; he loves Big Brother. Orwell’s ending shows the regime’s goal as the destruction of independent thought, not just obedience.
+
+#### The Hunger Games — Suzanne Collins
+
+**Story and conflict:** Katniss Everdeen volunteers for her younger sister Prim and is sent from District 12 into the Capitol’s televised death match with Peeta Mellark. She survives through hunting skills, alliances, help from sponsors, and a bond with Rue, a young tribute whose death becomes a public act of mourning. Katniss’s care for Rue makes the Capitol’s spectacle look cruel rather than entertaining.
+
+**Ending and meaning:** The rules change to allow two victors from the same district, so Katniss and Peeta survive together. When the Capitol reverses the rule and demands one survivor, they threaten to eat poisonous berries instead. Officials name them co-winners, but their refusal exposes the government’s limits and turns Katniss into a symbol of resistance. The ending is a victory for survival and the beginning of political danger.
