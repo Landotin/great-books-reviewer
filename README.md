@@ -1,15 +1,15 @@
 # The Reading Room
 
-An independent Great Books study companion for Weeks 13–17.
+An independent Great Books study companion for Weeks 1–17 of the Canvas course.
 
-## Features
+## What it includes
 
-- Five weekly reviewers covering 15 lessons
-- 38 cited-work summaries with author and lesson connections
-- 45 explained self-check answers, including ambiguity notes
-- Randomized multiple-choice quizzes and recall/self-assessment mode
-- Week filters, question counts, instant explanations, and missed-question practice
-- Local browser progress, searchable bookshelf, and downloadable Markdown reviewer
+- 17 weekly pages covering 45 lessons and two exam checkpoints
+- 93 author, story, and literary-work summaries, including extended summaries of major plot-based works
+- The expanded Weeks 1–12 section adds 55 work summaries and 91 course self-check answers
+- 136 explained course self-check answers, with ambiguous wording flagged
+- 44 additional story-recall quiz prompts about authors, characters, events, and endings
+- Multiple-choice and recall practice, searchable bookshelf, week filters, and local progress
 - Responsive layout, keyboard focus indicators, and reduced-motion support
 
 ## Run locally
@@ -22,6 +22,6 @@ Publish the `main` branch from `/ (root)` in Settings → Pages. All asset paths
 
 ## Study notes
 
-This is not an official instructor answer key. Ambiguous prompts are marked and excluded from quizzes by default. Sources and interpretive cautions are available in the site's Sources & study notes section.
+This is not an official instructor answer key. Weeks 6 and 12 are exam checkpoints without separate Canvas self-checks. Ambiguous Canvas questions are marked and excluded from quizzes by default. Story summaries contain spoilers and should be checked against assigned excerpts and the course’s preferred terminology.
 
 Quiz results and reviewed-week marks stay in the current browser. No account or analytics service is used.
